@@ -1,4 +1,12 @@
-### Hi there 👋
+
+<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" /></a> 
+
+[![mmok's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmok1127)](https://github.com/anuraghazra/github-readme-stats)
+
+
+🛠 Languages and Tools
+
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"><img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
 <!--
 **mmok1127/mmok1127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
